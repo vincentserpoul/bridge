@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jeanjacquesserpoul/bridge-distribution/distribution"
+	"github.com/jeanjacquesserpoul/bridge-distribution/bridge/distribution"
 )
 
 func main() {
